@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/ogw/ADGmqu-mfXA-oq04H82TcIWTi4HIuoDHyAjC1LvyGSJJ" group-title="Premuim ZalTV",Yearly & monthly ZalTV special offer
-http://www.mene77.ir/zt/ads-11626.m4v.m4v
+http://www.mene77.ir/zt/ads-11626.m4v
 #EXTINF:0 tvg-country="EG;MY" tvg-logo="" group-title="Africa(11)",Al Horreya,AL HORREYA TV (1920×1080),EG | Al Horreya
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby
 #EXTINF:0 tvg-country="CD" tvg-logo="" group-title="Africa(11)",Afrobeats
